@@ -2,3 +2,5 @@
 # fips-nuklear
 #
 ---
+exports:
+    header-dirs: [ . ]
