@@ -1,2 +1,5 @@
 # fips-nuklear
-fips build system wrapper for nuklear UI (https://github.com/vurtun/nuklear)
+
+nuklear UI: https://github.com/vurtun/nuklear
+
+fips: https://github.com/floooh/fips
